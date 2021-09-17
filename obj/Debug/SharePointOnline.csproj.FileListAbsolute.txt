@@ -1,0 +1,90 @@
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365\SharePointOffiec365\bin\Debug\SharePointOnline.dll.config
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365\SharePointOffiec365\bin\Debug\SharePointOnline.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365\SharePointOffiec365\bin\Debug\SharePointOnline.pdb
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365\SharePointOffiec365\bin\Debug\Microsoft.Office.Client.Policy.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365\SharePointOffiec365\bin\Debug\Microsoft.Office.Client.TranslationServices.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365\SharePointOffiec365\bin\Debug\Microsoft.Office.SharePoint.Tools.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365\SharePointOffiec365\bin\Debug\Microsoft.Online.SharePoint.Client.Tenant.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365\SharePointOffiec365\bin\Debug\Microsoft.ProjectServer.Client.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365\SharePointOffiec365\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365\SharePointOffiec365\bin\Debug\Microsoft.SharePoint.Client.DocumentManagement.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365\SharePointOffiec365\bin\Debug\Microsoft.SharePoint.Client.Publishing.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365\SharePointOffiec365\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365\SharePointOffiec365\bin\Debug\Microsoft.SharePoint.Client.Runtime.Windows.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365\SharePointOffiec365\bin\Debug\Microsoft.SharePoint.Client.Search.Applications.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365\SharePointOffiec365\bin\Debug\Microsoft.SharePoint.Client.Search.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365\SharePointOffiec365\bin\Debug\Microsoft.SharePoint.Client.Taxonomy.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365\SharePointOffiec365\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365\SharePointOffiec365\bin\Debug\Microsoft.SharePoint.Client.WorkflowServices.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365\SharePointOffiec365\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365\SharePointOffiec365\bin\Debug\System.Security.Claims.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365\SharePointOffiec365\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365\SharePointOffiec365\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365\SharePointOffiec365\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365\SharePointOffiec365\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365\SharePointOffiec365\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365\SharePointOffiec365\obj\Debug\SharePointOnline.csprojAssemblyReference.cache
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365\SharePointOffiec365\obj\Debug\SharePointOnline.csproj.CoreCompileInputs.cache
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365\SharePointOffiec365\obj\Debug\SharePointOnline.csproj.CopyComplete
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365\SharePointOffiec365\obj\Debug\SharePointOnline.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365\SharePointOffiec365\obj\Debug\SharePointOnline.pdb
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_old\SharePointOffiec365\bin\Debug\SharePointOnline.dll.config
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_old\SharePointOffiec365\bin\Debug\SharePointOnline.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_old\SharePointOffiec365\bin\Debug\SharePointOnline.pdb
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_old\SharePointOffiec365\bin\Debug\Microsoft.Office.Client.Policy.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_old\SharePointOffiec365\bin\Debug\Microsoft.Office.Client.TranslationServices.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_old\SharePointOffiec365\bin\Debug\Microsoft.Office.SharePoint.Tools.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_old\SharePointOffiec365\bin\Debug\Microsoft.Online.SharePoint.Client.Tenant.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_old\SharePointOffiec365\bin\Debug\Microsoft.ProjectServer.Client.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_old\SharePointOffiec365\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_old\SharePointOffiec365\bin\Debug\Microsoft.SharePoint.Client.DocumentManagement.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_old\SharePointOffiec365\bin\Debug\Microsoft.SharePoint.Client.Publishing.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_old\SharePointOffiec365\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_old\SharePointOffiec365\bin\Debug\Microsoft.SharePoint.Client.Runtime.Windows.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_old\SharePointOffiec365\bin\Debug\Microsoft.SharePoint.Client.Search.Applications.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_old\SharePointOffiec365\bin\Debug\Microsoft.SharePoint.Client.Search.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_old\SharePointOffiec365\bin\Debug\Microsoft.SharePoint.Client.Taxonomy.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_old\SharePointOffiec365\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_old\SharePointOffiec365\bin\Debug\Microsoft.SharePoint.Client.WorkflowServices.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_old\SharePointOffiec365\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_old\SharePointOffiec365\bin\Debug\System.Security.Claims.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_old\SharePointOffiec365\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_old\SharePointOffiec365\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_old\SharePointOffiec365\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_old\SharePointOffiec365\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_old\SharePointOffiec365\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_old\SharePointOffiec365\obj\Debug\SharePointOnline.csprojAssemblyReference.cache
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_old\SharePointOffiec365\obj\Debug\SharePointOnline.csproj.CoreCompileInputs.cache
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_old\SharePointOffiec365\obj\Debug\SharePointOnline.csproj.CopyComplete
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_old\SharePointOffiec365\obj\Debug\SharePointOnline.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_old\SharePointOffiec365\obj\Debug\SharePointOnline.pdb
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_Bot Store\SharePointOffiec365\bin\Debug\SharePointOnline.dll.config
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_Bot Store\SharePointOffiec365\bin\Debug\SharePointOnline.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_Bot Store\SharePointOffiec365\bin\Debug\SharePointOnline.pdb
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_Bot Store\SharePointOffiec365\bin\Debug\Microsoft.Office.Client.Policy.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_Bot Store\SharePointOffiec365\bin\Debug\Microsoft.Office.Client.TranslationServices.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_Bot Store\SharePointOffiec365\bin\Debug\Microsoft.Office.SharePoint.Tools.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_Bot Store\SharePointOffiec365\bin\Debug\Microsoft.Online.SharePoint.Client.Tenant.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_Bot Store\SharePointOffiec365\bin\Debug\Microsoft.ProjectServer.Client.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_Bot Store\SharePointOffiec365\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_Bot Store\SharePointOffiec365\bin\Debug\Microsoft.SharePoint.Client.DocumentManagement.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_Bot Store\SharePointOffiec365\bin\Debug\Microsoft.SharePoint.Client.Publishing.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_Bot Store\SharePointOffiec365\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_Bot Store\SharePointOffiec365\bin\Debug\Microsoft.SharePoint.Client.Runtime.Windows.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_Bot Store\SharePointOffiec365\bin\Debug\Microsoft.SharePoint.Client.Search.Applications.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_Bot Store\SharePointOffiec365\bin\Debug\Microsoft.SharePoint.Client.Search.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_Bot Store\SharePointOffiec365\bin\Debug\Microsoft.SharePoint.Client.Taxonomy.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_Bot Store\SharePointOffiec365\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_Bot Store\SharePointOffiec365\bin\Debug\Microsoft.SharePoint.Client.WorkflowServices.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_Bot Store\SharePointOffiec365\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_Bot Store\SharePointOffiec365\bin\Debug\System.Security.Claims.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_Bot Store\SharePointOffiec365\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_Bot Store\SharePointOffiec365\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_Bot Store\SharePointOffiec365\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_Bot Store\SharePointOffiec365\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_Bot Store\SharePointOffiec365\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_Bot Store\SharePointOffiec365\obj\Debug\SharePointOnline.csprojAssemblyReference.cache
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_Bot Store\SharePointOffiec365\obj\Debug\SharePointOnline.csproj.CoreCompileInputs.cache
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_Bot Store\SharePointOffiec365\obj\Debug\SharePointOnline.csproj.CopyComplete
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_Bot Store\SharePointOffiec365\obj\Debug\SharePointOnline.dll
+C:\Users\ramachandran.n\source\repos\SharePointOffiec365_Bot Store\SharePointOffiec365\obj\Debug\SharePointOnline.pdb
